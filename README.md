@@ -65,16 +65,4 @@ Pull requests are welcome. For major changes, please open an issue first.
 ## License
 
 [MIT](LICENSE)
-```
 
-This version:
-1. Uses simpler formatting for better GitHub rendering
-2. Includes placeholder links you can replace
-3. Has a cleaner structure with essential information
-4. Maintains all important details while being more concise
-5. Uses emojis for better visual scanning
-
-Just copy and paste this directly into a new README.md file in your GitHub repository. You may want to:
-- Replace the placeholder screenshot link with an actual screenshot
-- Update the git clone URL with your actual repository URL
-- Add any additional project-specific details you want to highlight
